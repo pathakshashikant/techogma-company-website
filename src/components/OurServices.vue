@@ -1,0 +1,98 @@
+<template>
+  <div class="w-full bg-[#fff5ed] relative pt-36">
+    <div class="">
+      <div class="flex flex-col space-y-6">
+        <p class="text-[34px] font-bold text-center text-[#0f2137]">
+          Grow your startup with our Service
+        </p>
+        <p class="text-base text-center text-[#0f2137] leading-[1.8rem]">
+          Build an incredible workplace and grow your business with Gusto’s
+          <br />
+          all-in-one platform with amazing contents.
+        </p>
+      </div>
+
+      <div class="flex space-x-2 px-64 py-24">
+        <div class="flex space-x-2">
+          <img src="image-58.png" class="w-[88px] h-[88px] object-cover" />
+          <div>
+            <p class="text-lg font-bold text-left text-[#0f2137]">
+              Marketing &#x26; advertising
+            </p>
+            <p class="text-base text-left text-[#343d48]">
+              Get your info tests delivered athome collect a sample from theyour
+              pogress tests.
+            </p>
+          </div>
+        </div>
+        <div class="flex space-x-2">
+          <img src="image-62.png" class="w-[88px] h-[88px] object-cover" />
+          <div>
+            <p
+              class="w-[265px] h-[30px] text-lg font-bold text-left text-[#0f2137]"
+            >
+              Ultimate development
+            </p>
+            <p class="text-base text-left text-[#343d48]">
+              Get your info tests delivered athome collect a sample from theyour
+              pogress tests.
+            </p>
+          </div>
+        </div>
+        <div class="flex space-x-2">
+          <img src="image-64.png" class="w-[88px] h-[88px] object-cover" />
+          <div>
+            <p class="text-lg font-bold text-left text-[#0f2137]">
+              Business Enterprise
+            </p>
+            <p class="text-base text-left text-[#343d48]">
+              Get your info tests delivered athome collect a sample from theyour
+              pogress tests.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-full py-28">
+        <div class="flex space-x-6 justify-center">
+          <div class="flex items-baseline -mt-4">
+            <div class="w-[70px] h-0.5 bg-[#dbdee7]"></div>
+            <svg
+              width="50"
+              height="43"
+              viewBox="0 0 50 43"
+              fill="red"
+              xmlns="http://www.w3.org/2000/svg"
+              class="w-[50px] h-[42.31px] opacity-70"
+              preserveAspectRatio="xMidYMid meet"
+            >
+              <g opacity="0.1">
+                <path
+                  d="M17.3076 19.231H10.5767C9.7754 19.231 9.09415 18.9506 8.53319 18.3896C7.97255 17.8287 7.69186 17.1476 7.69186 16.3461V15.385C7.69186 13.2614 8.4432 11.4487 9.94579 9.94611C11.4483 8.44404 13.2613 7.6927 15.3847 7.6927H17.3076C17.8284 7.6927 18.2789 7.50231 18.6597 7.12185C19.0403 6.74118 19.2305 6.29062 19.2305 5.76976V1.92325C19.2305 1.4025 19.0401 0.951524 18.6597 0.570851C18.279 0.190705 17.8285 0 17.3076 0H15.3847C13.3011 0 11.3134 0.406037 9.42009 1.21695C7.52704 2.02839 5.88964 3.12526 4.50724 4.50766C3.12495 5.88942 2.02839 7.52694 1.21706 9.4202C0.405721 11.3132 0 13.3015 0 15.3849V36.5382C0 38.1417 0.560642 39.5031 1.68245 40.6253C2.80437 41.7469 4.16687 42.3077 5.76934 42.3077H17.3083C18.9107 42.3077 20.2728 41.7469 21.3948 40.6253C22.5164 39.5031 23.0774 38.1417 23.0774 36.5382V25.0003C23.0774 23.3972 22.5164 22.0357 21.3941 20.9134C20.2726 19.7919 18.91 19.231 17.3076 19.231Z"
+                  fill="red"
+                ></path>
+                <path
+                  d="M48.3184 20.9134C47.1969 19.7919 45.8347 19.231 44.2319 19.231H37.5012C36.7003 19.231 36.0184 18.9506 35.4584 18.3896C34.8972 17.8287 34.6171 17.1476 34.6171 16.3461V15.385C34.6171 13.2614 35.3684 11.4487 36.8702 9.94611C38.3722 8.44404 40.1852 7.6927 42.3095 7.6927H44.2321C44.7529 7.6927 45.2038 7.50231 45.5842 7.12185C45.9645 6.74118 46.1555 6.29062 46.1555 5.76976V1.92325C46.1555 1.4025 45.9646 0.951524 45.5842 0.570851C45.2039 0.190705 44.753 0 44.2321 0H42.3095C40.2248 0 38.2375 0.406037 36.3437 1.21695C34.451 2.02839 32.8141 3.12526 31.4317 4.50766C30.0493 5.88942 28.9522 7.52694 28.1412 9.4202C27.3301 11.3132 26.9238 13.3015 26.9238 15.3849V36.5382C26.9238 38.1417 27.485 39.5031 28.6065 40.6253C29.7281 41.7469 31.0903 42.3077 32.693 42.3077H44.2313C45.8341 42.3077 47.1962 41.7469 48.3177 40.6253C49.44 39.5031 50 38.1417 50 36.5382V25.0003C50.0001 23.3971 49.44 22.0357 48.3184 20.9134Z"
+                  fill="red"
+                ></path>
+              </g>
+            </svg>
+          </div>
+
+          <div class="flex flex-col space-y-10">
+            <p
+              class="w-[846px] text-2xl text-left text-[#0F2137] font-[b612] leading-[50px]"
+            >
+              “Whatever we create in Techogma looks absolutely brilliant. It
+              helps show our work in the best light, and is downright impressive
+              when clients see a Qwilr Page we have made for them.”
+            </p>
+            <p class="text-base font-medium text-left text-[#7e8896]">
+              By Raushan Ranjan, CEO of Techogma
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
