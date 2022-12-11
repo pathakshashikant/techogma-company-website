@@ -1,7 +1,9 @@
 <template>
   <div class="home-bg relative">
-    <div class="h-10 flex items-center justify-between py-12 px-[19rem]">
-      <div class="flex items-center space-x-32">
+    <div
+      class="h-10 flex items-center justify-between py-12 xl:px-[19rem] md:px-[10rem] px-8"
+    >
+      <div class="flex items-center xl:space-x-32 md:space-x-16 space-x-4">
         <div class="flex space-x-2 items-center">
           <img src="../assets/company_logo.png" class="object-cover" />
           <span class="font-normal text-xl leading-6 text-[#0F2137]"

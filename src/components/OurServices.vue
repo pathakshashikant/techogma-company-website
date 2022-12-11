@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full bg-[#fff5ed] relative pt-36">
+  <div class="w-full bg-[#fff5ed] relative pt-36 -mt-24">
     <div class="">
       <div class="flex flex-col space-y-6">
         <p class="text-[34px] font-bold text-center text-[#0f2137]">
@@ -12,43 +12,54 @@
         </p>
       </div>
 
-      <div class="flex space-x-2 px-64 py-24">
-        <div class="flex space-x-2">
-          <img src="image-58.png" class="w-[88px] h-[88px] object-cover" />
-          <div>
-            <p class="text-lg font-bold text-left text-[#0f2137]">
-              Marketing &#x26; advertising
-            </p>
-            <p class="text-base text-left text-[#343d48]">
-              Get your info tests delivered athome collect a sample from theyour
-              pogress tests.
-            </p>
+      <div class="flex flex-wrap justify-center pt-[110px] gap-40">
+        <div
+          class="grid gap-x-16 gap-y-24 xl:grid-cols-3 grid-cols-1 xl:px-64 lg:px-32 md:px-24 px-8"
+        >
+          <div class="flex space-x-6">
+            <img
+              src="../assets/tile1.svg"
+              class="w-[88px] h-[88px] object-cover"
+            />
+            <div>
+              <p class="text-lg font-bold text-left text-[#0f2137]">
+                Marketing &#x26; advertising
+              </p>
+              <p class="text-base text-left text-[#343d48]">
+                Get your info tests delivered athome collect a sample from
+                theyour pogress tests.
+              </p>
+            </div>
           </div>
-        </div>
-        <div class="flex space-x-2">
-          <img src="image-62.png" class="w-[88px] h-[88px] object-cover" />
-          <div>
-            <p
-              class="w-[265px] h-[30px] text-lg font-bold text-left text-[#0f2137]"
-            >
-              Ultimate development
-            </p>
-            <p class="text-base text-left text-[#343d48]">
-              Get your info tests delivered athome collect a sample from theyour
-              pogress tests.
-            </p>
+          <div class="flex space-x-6">
+            <img
+              src="../assets/tile6.svg"
+              class="w-[88px] h-[88px] object-cover"
+            />
+            <div>
+              <p class="text-lg font-bold text-left text-[#0f2137]">
+                Marketing &#x26; advertising
+              </p>
+              <p class="text-base text-left text-[#343d48]">
+                Get your info tests delivered athome collect a sample from
+                theyour pogress tests.
+              </p>
+            </div>
           </div>
-        </div>
-        <div class="flex space-x-2">
-          <img src="image-64.png" class="w-[88px] h-[88px] object-cover" />
-          <div>
-            <p class="text-lg font-bold text-left text-[#0f2137]">
-              Business Enterprise
-            </p>
-            <p class="text-base text-left text-[#343d48]">
-              Get your info tests delivered athome collect a sample from theyour
-              pogress tests.
-            </p>
+          <div class="flex space-x-6">
+            <img
+              src="../assets/tile2.svg"
+              class="w-[88px] h-[88px] object-cover"
+            />
+            <div>
+              <p class="text-lg font-bold text-left text-[#0f2137]">
+                Marketing &#x26; advertising
+              </p>
+              <p class="text-base text-left text-[#343d48]">
+                Get your info tests delivered athome collect a sample from
+                theyour pogress tests.
+              </p>
+            </div>
           </div>
         </div>
       </div>

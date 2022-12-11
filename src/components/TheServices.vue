@@ -16,7 +16,9 @@
       </p>
     </div>
     <div class="flex flex-wrap justify-center pt-[110px] gap-40">
-      <div class="grid gap-x-16 gap-y-24 grid-cols-3 px-64">
+      <div
+        class="grid gap-x-16 gap-y-24 xl:grid-cols-3 md:grid-cols-2 grid-cols-1 xl:px-64 lg:px-32 md:px-24 px-8"
+      >
         <div class="flex space-x-6">
           <img
             src="../assets/tile1.svg"

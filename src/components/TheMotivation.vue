@@ -1,6 +1,8 @@
 <template>
   <div class="w-full py-12">
-    <div class="flex px-[157.5px] justify-between flex-col">
+    <div
+      class="flex xl:px-[157.5px] lg:px-8 md:px-4 sm:px-2 px-1 justify-between flex-col"
+    >
       <div class="text-sm font-medium text-center text-gray-500">
         <ul
           class="flex flex-wrap -mb-px space-x-12 justify-between border-b-2 px-12"
