@@ -270,9 +270,7 @@
         </svg>
       </div>
     </div>
-    <div
-      class="w-full h-[874px] bg-gradient-to-b from-[#ebf9ff] to-[#f6f6ff] py-[83px]"
-    >
+    <div class="w-full bg-gradient-to-b from-[#ebf9ff] to-[#f6f6ff] py-[83px]">
       <div class="flex flex-col w-full items-center sapce-y-12">
         <div class="flex justify-center flex-col">
           <p
@@ -457,6 +455,162 @@
             </div>
           </div>
         </div>
+      </div>
+    </div>
+
+    <div class="w-full">
+      <!-- <div class="w-[1308px] h-[70.72px]">
+        <div
+          class="w-[1308px] h-[1.06px] opacity-10 rounded-[5px] bg-[#01070d]"
+        ></div>
+        <div class="w-[348.8px] h-[3.17px] rounded-[5px] bg-[#a17857]"></div>
+        <div class="w-[1118.34px] h-[31.67px]">
+          <p
+            class="w-[333.54px] h-[31.67px] text-xl font-bold text-right text-[#0f2137]"
+          >
+            Why you choose our service?
+          </p>
+          <p
+            class="w-[332.45px] h-[31.67px] text-xl font-bold text-center text-[#0f2137]"
+          >
+            What’s our business promise?
+          </p>
+          <p
+            class="w-[312.83px] h-[31.67px] text-xl font-bold text-left text-[#0f2137]"
+          >
+            What’s our role model plan?
+          </p>
+        </div>
+      </div> -->
+
+      <div class="flex px-[157.5px] justify-between py-12">
+        <div class="flex flex-col">
+          <div class="flex items-center">
+            <span
+              class="h-[190px] text-[40px] font-bold text-left text-[#0f2137]"
+            >
+              We will turn your idea in <br />
+              the successful business <br />
+              model framework &#128525;
+            </span>
+          </div>
+          <div class="w-full">
+            <p
+              class="w-[512.3px] h-[133px] text-[17px] text-left text-[#02073e]"
+            >
+              Get your tests delivered at let home collect sample from the
+              victory of the managments that supplies best design system
+              guidelines ever.
+            </p>
+          </div>
+
+          <div class=" ">
+            <div class="flex basis-[50%] gap-12">
+              <div class="flex gap-4 flex-col">
+                <p
+                  class="text-base font-medium text-[#02073e] flex items-center space-x-3"
+                >
+                  <svg
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                    class=""
+                    preserveAspectRatio="none"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      clip-rule="evenodd"
+                      d="M10.9 -0.000525713C4.88985 -0.000525713 1.93119e-05 4.73357 1.93119e-05 10.555C1.93119e-05 16.3753 4.88985 21.11 10.9 21.11C16.9101 21.11 21.8001 16.3753 21.8001 10.555C21.8001 4.73357 16.9101 -0.000525713 10.9 -0.000525713ZM16.9767 7.03479L10.269 14.3425C10.1039 14.5219 9.87374 14.6144 9.64184 14.6144C9.45785 14.6144 9.27299 14.5559 9.1183 14.4373L4.9259 11.1889C4.56451 10.9091 4.5059 10.3978 4.79516 10.0471C5.08407 9.69752 5.61221 9.6402 5.9736 9.92054L9.54417 12.6866L15.7232 5.9554C16.0302 5.61944 16.5608 5.58936 16.9067 5.88788C17.253 6.18582 17.2845 6.69883 16.9767 7.03479Z"
+                      fill="#3FDBB1"
+                    ></path>
+                  </svg>
+                  <span class="text-base font-medium text-left text-[#02073e]"
+                    >Medical and vision</span
+                  >
+                </p>
+
+                <p
+                  class="text-base font-medium text-[#02073e] flex items-center space-x-3"
+                >
+                  <svg
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                    class=""
+                    preserveAspectRatio="none"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      clip-rule="evenodd"
+                      d="M10.9 -0.000525713C4.88985 -0.000525713 1.93119e-05 4.73357 1.93119e-05 10.555C1.93119e-05 16.3753 4.88985 21.11 10.9 21.11C16.9101 21.11 21.8001 16.3753 21.8001 10.555C21.8001 4.73357 16.9101 -0.000525713 10.9 -0.000525713ZM16.9767 7.03479L10.269 14.3425C10.1039 14.5219 9.87374 14.6144 9.64184 14.6144C9.45785 14.6144 9.27299 14.5559 9.1183 14.4373L4.9259 11.1889C4.56451 10.9091 4.5059 10.3978 4.79516 10.0471C5.08407 9.69752 5.61221 9.6402 5.9736 9.92054L9.54417 12.6866L15.7232 5.9554C16.0302 5.61944 16.5608 5.58936 16.9067 5.88788C17.253 6.18582 17.2845 6.69883 16.9767 7.03479Z"
+                      fill="#3FDBB1"
+                    ></path>
+                  </svg>
+                  <span class="text-base font-medium text-left text-[#02073e]"
+                    >Life insurance</span
+                  >
+                </p>
+              </div>
+              <div class="flex gap-4 flex-col">
+                <p
+                  class="text-base font-medium text-[#02073e] flex items-center space-x-3"
+                >
+                  <svg
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                    class=""
+                    preserveAspectRatio="none"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      clip-rule="evenodd"
+                      d="M10.9 -0.000525713C4.88985 -0.000525713 1.93119e-05 4.73357 1.93119e-05 10.555C1.93119e-05 16.3753 4.88985 21.11 10.9 21.11C16.9101 21.11 21.8001 16.3753 21.8001 10.555C21.8001 4.73357 16.9101 -0.000525713 10.9 -0.000525713ZM16.9767 7.03479L10.269 14.3425C10.1039 14.5219 9.87374 14.6144 9.64184 14.6144C9.45785 14.6144 9.27299 14.5559 9.1183 14.4373L4.9259 11.1889C4.56451 10.9091 4.5059 10.3978 4.79516 10.0471C5.08407 9.69752 5.61221 9.6402 5.9736 9.92054L9.54417 12.6866L15.7232 5.9554C16.0302 5.61944 16.5608 5.58936 16.9067 5.88788C17.253 6.18582 17.2845 6.69883 16.9767 7.03479Z"
+                      fill="#3FDBB1"
+                    ></path>
+                  </svg>
+                  <span class="text-base font-medium text-left text-[#02073e]"
+                    >Medical and vision</span
+                  >
+                </p>
+
+                <p
+                  class="text-base font-medium text-[#02073e] flex items-center space-x-3"
+                >
+                  <svg
+                    width="22"
+                    height="22"
+                    viewBox="0 0 22 22"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                    class=""
+                    preserveAspectRatio="none"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      clip-rule="evenodd"
+                      d="M10.9 -0.000525713C4.88985 -0.000525713 1.93119e-05 4.73357 1.93119e-05 10.555C1.93119e-05 16.3753 4.88985 21.11 10.9 21.11C16.9101 21.11 21.8001 16.3753 21.8001 10.555C21.8001 4.73357 16.9101 -0.000525713 10.9 -0.000525713ZM16.9767 7.03479L10.269 14.3425C10.1039 14.5219 9.87374 14.6144 9.64184 14.6144C9.45785 14.6144 9.27299 14.5559 9.1183 14.4373L4.9259 11.1889C4.56451 10.9091 4.5059 10.3978 4.79516 10.0471C5.08407 9.69752 5.61221 9.6402 5.9736 9.92054L9.54417 12.6866L15.7232 5.9554C16.0302 5.61944 16.5608 5.58936 16.9067 5.88788C17.253 6.18582 17.2845 6.69883 16.9767 7.03479Z"
+                      fill="#3FDBB1"
+                    ></path>
+                  </svg>
+                  <span class="text-base font-medium text-left text-[#02073e]"
+                    >Life insurance</span
+                  >
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <img
+          src="illustration.png"
+          class="w-[633.29px] h-[619.61px] object-cover"
+        />
       </div>
     </div>
   </div>
