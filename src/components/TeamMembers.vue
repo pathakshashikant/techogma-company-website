@@ -11,11 +11,11 @@
       </p>
     </div>
 
-    <div class="flex space-x-4 items-center py-28 w-full justify-center">
+    <div class="flex space-x-4 items-center py-28 w-full justify-center px-4">
       <div class="w-[380px] flex flex-col space-y-2">
-        <div
+        <!-- <div
           class="w-[380px] h-[420px] rounded-[5px] bg-[#fffaf6] mix-blend-darken"
-        ></div>
+        ></div> -->
         <p class="w-48 text-xl font-medium text-left text-[#0f2137]">
           Emmalee Mclain
         </p>
@@ -49,9 +49,9 @@
         </svg>
       </div>
       <div class="w-[380px] flex flex-col space-y-2">
-        <div
+        <!-- <div
           class="w-[380px] h-[420px] rounded-[5px] bg-[#f7fbfb] mix-blend-darken"
-        ></div>
+        ></div> -->
         <p class="text-xl font-medium text-left text-[#0f2137]">Daisy Morgan</p>
         <p class="text-base text-left text-[#7589a1]">Lead developer</p>
         <svg
@@ -78,9 +78,9 @@
         </svg>
       </div>
       <div class="w-[380px] flex flex-col space-y-2">
-        <div
+        <!-- <div
           class="w-[380px] h-[420px] rounded-[5px] bg-[#fbf8f6] mix-blend-darken"
-        ></div>
+        ></div> -->
         <p class="w-36 text-xl font-medium text-left text-[#0f2137]">
           Ariyanna Hicks
         </p>

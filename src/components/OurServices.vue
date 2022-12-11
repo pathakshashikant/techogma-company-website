@@ -92,7 +92,7 @@
 
           <div class="flex flex-col space-y-10">
             <p
-              class="w-[846px] text-2xl text-left text-[#0F2137] font-[b612] leading-[50px]"
+              class="max-w-[846px] text-2xl text-left text-[#0F2137] font-[b612] leading-[50px]"
             >
               “Whatever we create in Techogma looks absolutely brilliant. It
               helps show our work in the best light, and is downright impressive

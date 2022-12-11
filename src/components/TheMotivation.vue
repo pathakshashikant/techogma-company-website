@@ -3,27 +3,29 @@
     <div
       class="flex xl:px-[157.5px] lg:px-8 md:px-4 sm:px-2 px-1 justify-between flex-col"
     >
-      <div class="text-sm font-medium text-center text-gray-500">
+      <div
+        class="text-sm font-medium text-center text-gray-500 h-16 hidden lg:block"
+      >
         <ul
           class="flex flex-wrap -mb-px space-x-12 justify-between border-b-2 px-12"
         >
           <li>
             <p
-              class="inline-block text-xl active:border-[#a17857] font-bold text-right text-[#0f2137] p-4 rounded-t-lg hover:border-[#a17857] hover:border-b-2"
+              class="inline-block text-xl active:border-[#a17857] font-bold text-right text-[#0f2137] p-4 rounded-t-lg hover:border-[#a17857] hover:border-b-4"
             >
               Why choose our service?
             </p>
           </li>
           <li>
             <p
-              class="inline-block text-xl active:border-[#a17857] font-bold text-right text-[#0f2137] p-4 rounded-t-lg hover:border-[#a17857] hover:border-b-2"
+              class="inline-block text-xl active:border-[#a17857] font-bold text-right text-[#0f2137] p-4 rounded-t-lg hover:border-[#a17857] hover:border-b-4"
             >
               What's our business promise?
             </p>
           </li>
           <li>
             <p
-              class="inline-block text-xl active:border-[#a17857] font-bold text-right text-[#0f2137] p-4 rounded-t-lg hover:border-[#a17857] hover:border-b-2"
+              class="inline-block text-xl active:border-[#a17857] font-bold text-right text-[#0f2137] p-4 rounded-t-lg hover:border-[#a17857] hover:border-b-4"
             >
               What's our role model plan?
             </p>
@@ -31,7 +33,7 @@
         </ul>
       </div>
 
-      <div class="flex justify-between py-24 space-x-8">
+      <div class="flex lg:justify-between py-24 lg:space-x-8 justify-center">
         <div class="flex flex-col justify-center space-y-8">
           <div class="flex items-center">
             <span
@@ -152,7 +154,10 @@
             </div>
           </div>
         </div>
-        <img src="../assets/illustration.png" class="object-cover" />
+        <img
+          src="../assets/illustration.png"
+          class="object-cover hidden lg:block"
+        />
       </div>
     </div>
   </div>

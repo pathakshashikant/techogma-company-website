@@ -11,9 +11,10 @@
           Let’s see how it works
         </p>
       </div>
-
-      <div class="flex space-x-8 py-36 justify-center">
-        <div class="relative min-w-[260px]">
+      <div
+        class="grid gap-x-8 lg:grid-cols-4 grid-cols-1 py-36 w-full lg:px-16 md:grid-cols-2 md:px-4 md:py-16 px-4"
+      >
+        <div class="relative lg:min-w-[260px] w-full">
           <div class="relative">
             <div
               class="w-[76.94px] h-[89.9px] outer-border border flex justify-center items-center"
@@ -26,7 +27,7 @@
               viewBox="0 0 221 54"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
-              class="w-[212px] h-[50.97px] absolute top-0 left-[30%]"
+              class="w-[212px] h-[50.97px] absolute top-0 left-[30%] hidden xl:flex"
               preserveAspectRatio="none"
             >
               <path
@@ -61,7 +62,7 @@
             </p>
           </div>
         </div>
-        <div class="relative min-w-[260px]">
+        <div class="relative lg:min-w-[260px] w-full">
           <div class="relative">
             <div
               class="w-[76.94px] h-[89.9px] outer-border border flex justify-center items-center"
@@ -69,12 +70,14 @@
               <p class="text-3xl text-left text-[#0f2137]">02</p>
             </div>
             <svg
+              hidden
+              lg:block
               width="221"
               height="53"
               viewBox="0 0 227 53"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
-              class="w-[212px] h-[50.97px] absolute left-[30%] top-[50%]"
+              class="w-[212px] h-[50.97px] absolute top-[50%] left-[30%] hidden xl:flex"
               preserveAspectRatio="none"
             >
               <path
@@ -109,7 +112,7 @@
             </p>
           </div>
         </div>
-        <div class="relative min-w-[260px]">
+        <div class="relative lg:min-w-[260px] w-full">
           <div class="relative">
             <div
               class="w-[76.94px] h-[89.9px] outer-border border flex justify-center items-center"
@@ -118,11 +121,13 @@
             </div>
             <svg
               width="221"
+              hidden
+              lg:block
               height="54"
               viewBox="0 0 221 54"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
-              class="w-[212px] h-[50.97px] absolute top-0 left-[30%]"
+              class="w-[212px] h-[50.97px] absolute top-0 left-[30%] hidden xl:flex"
               preserveAspectRatio="none"
             >
               <path
@@ -157,7 +162,7 @@
             </p>
           </div>
         </div>
-        <div class="relative min-w-[260px]">
+        <div class="relative lg:min-w-[260px] w-full">
           <div class="relative">
             <div
               class="w-[76.94px] h-[89.9px] outer-border border flex justify-center items-center"
@@ -184,6 +189,9 @@
           </div>
         </div>
       </div>
+      <!-- <div class="flex space-x-8 py-36 justify-center basis-[50%]">
+       
+      </div> -->
     </div>
   </div>
 </template>

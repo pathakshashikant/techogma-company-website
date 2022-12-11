@@ -43,7 +43,9 @@
     </div>
 
     <div class="flex flex-col space-y-6 pt-24">
-      <p class="text-5xl font-bold text-center text-[#02073e] leading-[4rem]">
+      <p
+        class="md:text-5xl font-bold text-center text-[#02073e] md:leading-[4rem] text-[2rem] leading-[3rem]"
+      >
         Our focus is to see delightful Nepal <br />
         with our tailored digital services.
       </p>
@@ -59,7 +61,7 @@
       </div>
       <img
         src="../assets/collaboration_home.png"
-        class="z-10"
+        class="z-10 hidden lg:flex"
         alt="avatar-content"
       />
     </div>
