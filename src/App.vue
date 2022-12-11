@@ -461,50 +461,46 @@ import TheFooter from "./components/TheFooter.vue";
 
     <div class="w-full">
       <div class="flex px-[157.5px] justify-between py-12 flex-col">
-        <div
-          class="text-sm font-medium text-center text-gray-500 border-b border-gray-200 dark:text-gray-400 dark:border-gray-700"
-        >
-          <ul class="flex flex-wrap -mb-px">
-            <li class="mr-2">
-              <a
-                href="#"
-                class="inline-block p-4 rounded-t-lg border-b-2 border-transparent hover:text-gray-600 border-blue-600 active dark:text-blue-500 dark:border-blue-500"
-                >Why choose our service?</a
+        <div class="text-sm font-medium text-center text-gray-500">
+          <ul
+            class="flex flex-wrap -mb-px space-x-12 justify-between border-b-2 px-12"
+          >
+            <li>
+              <p
+                class="inline-block text-xl active:border-[#a17857] font-bold text-right text-[#0f2137] p-4 rounded-t-lg hover:border-[#a17857] hover:border-b-2"
               >
+                Why choose our service?
+              </p>
             </li>
-            <li class="mr-2">
-              <a
-                href="#"
-                class="inline-block p-4 text-blue-600 rounded-t-lg border-b-2 hover:border-gray-300 dark:hover:text-gray-300"
-                aria-current="page"
-                >What's our business promise?</a
+            <li>
+              <p
+                class="inline-block text-xl active:border-[#a17857] font-bold text-right text-[#0f2137] p-4 rounded-t-lg hover:border-[#a17857] hover:border-b-2"
               >
+                What's our business promise?
+              </p>
             </li>
-            <li class="mr-2">
-              <a
-                href="#"
-                class="inline-block p-4 rounded-t-lg border-b-2 border-transparent hover:text-gray-600 hover:border-gray-300 dark:hover:text-gray-300"
-                >What's our role mode plan?</a
+            <li>
+              <p
+                class="inline-block text-xl active:border-[#a17857] font-bold text-right text-[#0f2137] p-4 rounded-t-lg hover:border-[#a17857] hover:border-b-2"
               >
+                What's our role model plan?
+              </p>
             </li>
           </ul>
         </div>
 
-        <div class="flex justify-between py-12">
-          <div class="flex flex-col">
+        <div class="flex justify-between py-24 space-x-8">
+          <div class="flex flex-col justify-center space-y-8">
             <div class="flex items-center">
               <span
-                class="h-[190px] text-[40px] font-bold text-left text-[#0f2137]"
+                class="text-[40px] font-bold text-left text-[#0f2137] max-w-[30rem]"
               >
-                We will turn your idea in <br />
-                the successful business <br />
-                model framework &#128525;
+                We will turn your idea in the successful business model
+                framework &#128525;
               </span>
             </div>
-            <div class="w-full">
-              <p
-                class="w-[512.3px] h-[133px] text-[17px] text-left text-[#02073e]"
-              >
+            <div class="w-full max-w-[35rem]">
+              <p class="text-[17px] text-left text-[#02073e]">
                 Get your tests delivered at let home collect sample from the
                 victory of the managments that supplies best design system
                 guidelines ever.
@@ -614,10 +610,7 @@ import TheFooter from "./components/TheFooter.vue";
               </div>
             </div>
           </div>
-          <img
-            src="illustration.png"
-            class="w-[633.29px] h-[619.61px] object-cover"
-          />
+          <img src="./assets/illustration.png" class="object-cover" />
         </div>
       </div>
     </div>

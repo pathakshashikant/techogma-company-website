@@ -1,6 +1,6 @@
 <script setup lang="ts"></script>
 <template>
-  <section class="container flex justify-between px-4">
+  <section class="w-full flex justify-between pl-[136px] pr-[17px] gap-x-6">
     <div class="branding">
       <div class="brand-info flex items-center space-x-2 mb-4">
         <img src="../assets/logo.svg" alt="logo" />
