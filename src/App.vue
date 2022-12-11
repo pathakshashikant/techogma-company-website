@@ -6,12 +6,14 @@ import TeamMembers from "./components/TeamMembers.vue";
 import TheMotivation from "./components/TheMotivation.vue";
 import ContactForm from "./components/ContactForm.vue";
 import HowItWorks from "./components/HowItWorks.vue";
+import TheServices from "./components/TheServices.vue";
 </script>
 
 <template>
   <HomeContent />
   <OurServices />
   <TeamMembers />
+  <TheServices />
   <HowItWorks />
   <TheMotivation />
   <ContactForm />
