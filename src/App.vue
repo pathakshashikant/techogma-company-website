@@ -1,6 +1,7 @@
 <script setup lang="ts">
 // import { RouterLink, RouterView } from "vue-router";
 import TheFooter from "./components/TheFooter.vue";
+import Services from "./components/Services.vue";
 </script>
 
 <template>
@@ -271,6 +272,7 @@ import TheFooter from "./components/TheFooter.vue";
         </svg>
       </div>
     </div>
+
     <div class="w-full bg-gradient-to-b from-[#ebf9ff] to-[#f6f6ff] py-[83px]">
       <div class="flex flex-col w-full items-center sapce-y-12">
         <div class="flex justify-center flex-col">
@@ -458,7 +460,7 @@ import TheFooter from "./components/TheFooter.vue";
         </div>
       </div>
     </div>
-
+    <services></services>
     <div class="w-full">
       <div class="flex px-[157.5px] justify-between py-12 flex-col">
         <div class="text-sm font-medium text-center text-gray-500">
