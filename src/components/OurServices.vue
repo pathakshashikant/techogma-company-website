@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full bg-[#fff5ed] relative pt-36 -mt-24">
+  <div class="w-full bg-[#fff5ed] relative pt-36 lg:-mt-24 mt-24">
     <div class="">
       <div class="flex flex-col space-y-6">
         <p class="text-[34px] font-bold text-center text-[#0f2137]">
