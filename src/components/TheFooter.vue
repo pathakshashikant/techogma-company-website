@@ -1,7 +1,9 @@
 <script setup lang="ts"></script>
 <template>
-  <section class="w-full flex justify-between pl-[136px] pr-[17px] gap-x-20">
-    <div class="py-8 w-full flex justify-between">
+  <section
+    class="w-full flex justify-between lg:pl-[136px] lg:pr-[17px] gap-x-20"
+  >
+    <div class="py-8 w-full flex sm:flex-row flex-col justify-between">
       <div class="branding">
         <div class="brand-info flex items-center space-x-2 mb-4">
           <img src="../assets/logo.svg" alt="logo" />

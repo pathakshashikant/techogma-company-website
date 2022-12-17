@@ -1,6 +1,10 @@
+<script setup lang="ts">
+import TheHeader from "./TheHeader.vue";
+</script>
 <template>
   <div class="home-bg relative">
-    <div
+    <the-header></the-header>
+    <!-- <div
       class="h-10 flex items-center justify-between py-12 xl:px-[19rem] md:px-[10rem] px-8"
     >
       <div class="flex items-center xl:space-x-32 md:space-x-16 space-x-4">
@@ -40,7 +44,7 @@
           </svg>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="flex flex-col space-y-6 pt-24">
       <p
