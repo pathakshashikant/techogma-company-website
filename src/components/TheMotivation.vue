@@ -33,11 +33,13 @@
         </ul>
       </div>
 
-      <div class="flex lg:justify-between py-24 lg:space-x-8 justify-center">
+      <div
+        class="flex lg:justify-between py-12 md:py-24 px-6 md:px-0 lg:space-x-8 justify-center"
+      >
         <div class="flex flex-col justify-center space-y-8">
           <div class="flex items-center">
             <span
-              class="text-[40px] font-bold text-left text-[#0f2137] max-w-[30rem]"
+              class="md:text-[40px] font-bold text-left text-[#0f2137] md:max-w-[30rem] text-[1.375rem] leading-8 md:leading-[60px]"
             >
               We will turn your idea in the successful business model framework
               &#128525;

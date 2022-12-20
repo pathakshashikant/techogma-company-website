@@ -7,14 +7,16 @@
         >
           Whats the function
         </p>
-        <p class="text-4xl font-bold text-center text-[#0f2137]">
+        <p class="text-[28px] md:text-4xl font-bold text-center text-[#0f2137]">
           Let’s see how it works
         </p>
       </div>
       <div
-        class="grid gap-x-8 lg:grid-cols-4 grid-cols-1 py-36 w-full lg:px-16 md:grid-cols-2 md:px-4 md:py-16 px-4"
+        class="grid gap-x-8 lg:grid-cols-4 grid-cols-1 py-12 w-full lg:px-16 md:grid-cols-2 md:px-4 md:py-16 px-4 gap-y-16 md:gap-y-0"
       >
-        <div class="relative lg:min-w-[260px] w-full">
+        <div
+          class="flex justify-center items-center gap-8 md:gap-0 md:block relative lg:min-w-[260px] w-full"
+        >
           <div class="relative">
             <div
               class="w-[76.94px] h-[89.9px] outer-border border flex justify-center items-center"
@@ -45,7 +47,7 @@
             </svg>
           </div>
 
-          <div class="pt-[56.5px] flex flex-col space-y-4">
+          <div class="md:pt-[56.5px] flex flex-col space-y-4">
             <p class="text-[22px] font-medium text-left text-[#0f2137]">
               <span
                 class="text-[22px] font-medium text-left text-[#0f2137] leading-[155%]"
@@ -62,7 +64,9 @@
             </p>
           </div>
         </div>
-        <div class="relative lg:min-w-[260px] w-full">
+        <div
+          class="flex justify-center items-center gap-8 md:gap-0 md:block relative lg:min-w-[260px] w-full"
+        >
           <div class="relative">
             <div
               class="w-[76.94px] h-[89.9px] outer-border border flex justify-center items-center"
@@ -95,7 +99,7 @@
             </svg>
           </div>
 
-          <div class="pt-[56.5px] flex flex-col space-y-4">
+          <div class="md:pt-[56.5px] flex flex-col space-y-4">
             <p class="text-[22px] font-medium text-left text-[#0f2137]">
               <span
                 class="text-[22px] font-medium text-left text-[#0f2137] leading-[155%]"
@@ -112,7 +116,9 @@
             </p>
           </div>
         </div>
-        <div class="relative lg:min-w-[260px] w-full">
+        <div
+          class="flex justify-center items-center gap-8 md:gap-0 md:block relative lg:min-w-[260px] w-full"
+        >
           <div class="relative">
             <div
               class="w-[76.94px] h-[89.9px] outer-border border flex justify-center items-center"
@@ -145,7 +151,7 @@
             </svg>
           </div>
 
-          <div class="pt-[56.5px] flex flex-col space-y-4">
+          <div class="md:pt-[56.5px] flex flex-col space-y-4">
             <p class="text-[22px] font-medium text-left text-[#0f2137]">
               <span
                 class="text-[22px] font-medium text-left text-[#0f2137] leading-[155%]"
@@ -162,7 +168,9 @@
             </p>
           </div>
         </div>
-        <div class="relative lg:min-w-[260px] w-full">
+        <div
+          class="flex justify-center items-center gap-8 md:gap-0 md:block relative lg:min-w-[260px] w-full"
+        >
           <div class="relative">
             <div
               class="w-[76.94px] h-[89.9px] outer-border border flex justify-center items-center"
@@ -171,7 +179,7 @@
             </div>
           </div>
 
-          <div class="pt-[56.5px] flex flex-col space-y-4">
+          <div class="md:pt-[56.5px] flex flex-col space-y-4">
             <p class="text-[22px] font-medium text-left text-[#0f2137]">
               <span
                 class="text-[22px] font-medium text-left text-[#0f2137] leading-[155%]"

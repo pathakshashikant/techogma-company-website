@@ -12,14 +12,14 @@ const changeIcon = () => {
   <div class="lg:home-bg">
     <TheHeader />
 
-    <div class="flex flex-col space-y-6 pt-24">
+    <div class="flex flex-col space-y-6 md:pt-24 pt-12">
       <p
-        class="lg:text-5xl font-bold text-center text-[#02073e] md:leading-[4rem] text-[2rem] leading-[3rem]"
+        class="lg:text-5xl font-bold text-center text-[#02073e] md:leading-[4rem] text-[1.37rem] leading-[2rem]"
       >
         Our focus is to see delightful Nepal <br />
         with our tailored digital services.
       </p>
-      <p class="text-lg text-center text-[#02073e]">
+      <p class="md:text-lg text-center text-[#02073e] text-[16px]">
         We aim to be a pioneer of digital Nation Building
       </p>
     </div>

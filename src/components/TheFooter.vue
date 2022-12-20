@@ -172,12 +172,12 @@
       <div class="flex flex-wrap justify-between items-center py-6 -m-4">
         <div class="w-auto p-4">
           <a href="#">
-            <img src="flaro-assets/logos/flaro-logo-black.svg" alt="" />
+            <img src="../assets/company_logo.png" alt="" />
           </a>
         </div>
         <div class="w-auto p-4">
           <p class="text-sm text-gray-600 font-medium">
-            Copyright © 2022 Flaro. All Rights Reserved
+            Copyright © 2022 Techogma. All Rights Reserved
           </p>
         </div>
         <div class="w-auto p-4">

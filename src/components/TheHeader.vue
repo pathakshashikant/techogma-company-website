@@ -70,7 +70,7 @@ const changeIcon = () => {
 
     <div v-if="!toggleImageIcon">
       <ul
-        class="text-base text-[#02073e] lg:space-x-6 lg:flex fixed w-full top-20 bg-[#EBEDEF] lg:w-auto left-0 z-[1] lg:bg-transparent"
+        class="text-base text-[#02073e] lg:space-x-6 lg:flex fixed w-full top-20 bg-[#EBEDEF] lg:w-auto left-0 z-[99] lg:bg-transparent"
       >
         <li class="my-6 lg:my-0 mx-4">
           <a href="#" class="text-base text-[#02073e]">Home </a>

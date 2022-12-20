@@ -1,11 +1,15 @@
 <template>
-  <div class="w-full bg-[#fff5ed] relative pt-36 lg:-mt-24 mt-24">
+  <div class="w-full bg-[#fff5ed] relative md:pt-36 pt-12 lg:-mt-24 mt-24">
     <div class="">
       <div class="flex flex-col space-y-6">
-        <p class="text-[34px] font-bold text-center text-[#0f2137]">
+        <p
+          class="text-[1.37rem] leading-[2rem] md:leading-[3rem] md:text-[34px] font-bold text-center text-[#0f2137]"
+        >
           Grow your startup with our Service
         </p>
-        <p class="text-base text-center text-[#0f2137] leading-[1.8rem]">
+        <p
+          class="md:text-base text-center text-[#0f2137] md:leading-[1.8rem] px-6 md:px-0"
+        >
           Build an incredible workplace and grow your business with Gusto’s
           <br />
           all-in-one platform with amazing contents.
@@ -74,7 +78,7 @@
               viewBox="0 0 50 43"
               fill="red"
               xmlns="http://www.w3.org/2000/svg"
-              class="w-[50px] h-[42.31px] opacity-70"
+              class="w-[36px] md:w-[50px] h-[42.31px] opacity-70"
               preserveAspectRatio="xMidYMid meet"
             >
               <g opacity="0.1">
@@ -92,7 +96,7 @@
 
           <div class="flex flex-col space-y-10">
             <p
-              class="max-w-[846px] text-2xl text-left text-[#0F2137] font-[b612] leading-[50px]"
+              class="max-w-[846px] text-[20px] leading-[2rem] pr-4 md:pr-0 md:text-2xl text-left text-[#0F2137] font-[b612] md:leading-[50px]"
             >
               “Whatever we create in Techogma looks absolutely brilliant. It
               helps show our work in the best light, and is downright impressive

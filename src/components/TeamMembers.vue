@@ -4,14 +4,16 @@
       <p class="text-[34px] font-bold text-center text-[#0f2137]">
         Meet our superheros
       </p>
-      <p class="text-base text-center text-[#0f2137] pt-8">
+      <p class="md:text-base text-center text-[#0f2137] pt-8 px-[22px] md:px-0">
         Build an incredible workplace and grow your business with Gusto’s
         all-in-one <br />
         platform with amazing contents.
       </p>
     </div>
 
-    <div class="flex space-x-4 items-center py-28 w-full justify-center px-4">
+    <div
+      class="flex flex-col md:flex-row md:space-x-4 items-center py-28 w-full justify-center px-4"
+    >
       <div class="w-[380px] flex flex-col space-y-2">
         <!-- <div
           class="w-[380px] h-[420px] rounded-[5px] bg-[#fffaf6] mix-blend-darken"

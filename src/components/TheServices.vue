@@ -1,15 +1,15 @@
 <script setup lang="ts"></script>
 
 <template>
-  <section class="flex flex-col items-center py-28 bg-[#F9FAFC]">
+  <section class="flex flex-col items-center py-12 md:py-28 bg-[#F9FAFC]">
     <div class="heading flex flex-col items-center space-y-5">
       <h3
-        class="font-b612 text-3xl font-bold text-[#0F2137] leading-[50px] tracking-[-0.5px]"
+        class="font-b612 text-[1.375rem] md:text-3xl font-bold text-[#0F2137] leading-[50px] tracking-[-0.5px]"
       >
         Other sevices you must appreciate
       </h3>
       <p
-        class="text-base font-dm text-[#0F2137] leading-[35px] max-w-[631px] text-center"
+        class="text-base font-dm text-[#0F2137] leading-[35px] max-w-[631px] text-center mx-8 md:mx-0"
       >
         Focus only on the meaning, we take care of the design. As soon as the
         meeting end you can export in one click into your preferred.
@@ -17,7 +17,7 @@
     </div>
     <div class="flex flex-wrap justify-center pt-[110px] gap-40">
       <div
-        class="grid gap-x-16 gap-y-24 lg:grid-cols-2 md:grid-cols-1 px-32 xl:px-64"
+        class="grid gap-x-16 gap-y-24 lg:grid-cols-2 md:grid-cols-1 px-12 md:px-32 xl:px-64"
       >
         <div class="flex space-x-6">
           <img
